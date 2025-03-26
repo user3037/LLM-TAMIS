@@ -1,4 +1,4 @@
-# LLM-TAMIS
+# LLM-TAMIS: Large Language Model based Text-Augmented Medical Image Segmentation - MICCAI 2025 (under review)
 
 ## Overview
 LLM-TAMIS is a large language model-based text-augmented medical image segmentation method. It integrates both visual and textual data. By leveraging large language models (LLMs) and multimodal data, our method enhances segmentation accuracy by incorporating relevant contextual information from clinical reports and annotations.
