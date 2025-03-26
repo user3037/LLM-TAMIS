@@ -10,3 +10,7 @@ Additionally, we introduce a new Spatial Channel Driven Module (SCDM), which ref
 - **Multimodal Integration:** LLM-TAMIS effectively combines features from medical images and contextual information from clinical text annotations, addressing the limitations of existing image-only segmentation methods.
 - **Spatial Channel Driven Module (SCDM):** Introduces a novel module that enhances the extraction and fusion of multimodal features, improving segmentation accuracy.
 - **State-of-the-Art Performance:** Our method is comprehensively evaluated on two diverse datasets, **MosMed-Data+** and **QaTa-COV19**, demonstrating superior performance and robustness compared to existing methods.
+
+
+## Datasets
+LLM-TAMIS is evaluated on the datasets MosMed-Data+ and QaTa-COV19. For more information and to download the datasets, please visit [Medical Segmentation COVID-19 Dataset](https://medicalsegmentation.com/covid19/) and [Kaggle QaTa-COV19 Dataset](https://www.kaggle.com/datasets/aysendegerli/qatacov19-dataset).
